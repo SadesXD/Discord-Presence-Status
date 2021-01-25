@@ -15,7 +15,7 @@
 4. Setup your presence status in file called `config.json` 
 - First get your <b>Client ID</b>, in [Discord Developer Portal]() and then Switch `Application` -> `New Application`-> `Set Your Application Name ( This Name[ Application name ] will auto seted in your status name )` -> Click/Copy `client ID` and paste in `config.json` -> `Client_ID`
 
-    <img src="./image/discord.png" alt="discord">
+    <img src="./image/discord.PNG" alt="discord">
 
 - Setup all status whatever you want :)
 
@@ -26,9 +26,9 @@
 ## Status Name
 - large_image_text: Some text in the large image status
 - small_image_text: Some text in the small image status
-<img src="./image/Tutor.png" alt="image" >
+<img src="./image/Tutor.PNG" alt="image" >
 
 ## Preview
-<img src="./image/preview.png" alt="preview">
+<img src="./image/preview.PNG" alt="preview">
 
 
