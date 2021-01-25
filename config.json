@@ -1,0 +1,10 @@
+{
+    "Client_ID":"802729977731743744",
+    "details":"Details",
+    "small_image":"cv",
+    "small_image_text":"Test Small image",
+    "large_image":"dambo",
+    "large_image_text":"Test Large Image",
+    "state":"Testing state",
+    "timestamp":true
+}
