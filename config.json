@@ -1,10 +1,10 @@
 {
-    "Client_ID":"802729977731743744",
-    "details":"Details",
-    "small_image":"cv",
-    "small_image_text":"Test Small image",
-    "large_image":"dambo",
-    "large_image_text":"Test Large Image",
-    "state":"Testing state",
+    "Client_ID":"Your Client ID",
+    "details":"Your Status Details",
+    "small_image":"Small Image",
+    "small_image_text":"Small Image Text",
+    "large_image":"Large Image Text",
+    "large_image_text":"Large image text",
+    "state":"Your state status",
     "timestamp":true
 }
